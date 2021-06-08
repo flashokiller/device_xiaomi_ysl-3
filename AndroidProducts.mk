@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/p404_ysl.mk
+     $(LOCAL_DIR)/pa_ysl.mk
 
