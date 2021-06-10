@@ -23,7 +23,7 @@ $(call inherit-product, device/xiaomi/ysl/device.mk)
 
 # Inherit some common PA stuff.
 
-$(call inherit-product, vendor/pa/config/common_full_phone.mk)
+$(call inherit-product, vendor/pa/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 720
 
 # Device identifier. This must come after all inclusions
